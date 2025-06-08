@@ -16,4 +16,5 @@ This repository contains my personal solutions to problem sets and labs from [CS
 > ⚠️ These solutions are for educational purposes only. Sharing, submitting, or copying them without understanding violates CS50’s academic honesty policy.
 
 ## 📁 Folder Structure
-Each folder contains solutions by week or topic:
+Each folder contains solutions organized by week or topic:
+
